@@ -116,7 +116,7 @@
 [companies]: https://github.com/Blankj/awesome-java-leetcode/blob/master/Companies.md
 
 [001]: https://github.com/Blankj/awesome-java-leetcode/blob/master/note/001/README.md
-[007]: https://github.com/Blankj/awesome-java-leetcode/blob/master/note/007/README.md
+[007]: https://leetcode.com/problems/reverse-integer/
 [009]: https://github.com/Blankj/awesome-java-leetcode/blob/master/note/009/README.md
 [013]: https://github.com/Blankj/awesome-java-leetcode/blob/master/note/013/README.md
 [014]: https://github.com/Blankj/awesome-java-leetcode/blob/master/note/014/README.md
